@@ -15,7 +15,12 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-native": "0.68.2",
-    "react-native-web": "0.17.7"
+    "react-native-web": "0.17.7",
+    "expo-camera": "~12.2.0",
+    "expo-contacts": "~10.2.0",
+    "expo-sensors": "~11.3.0",
+    "expo-battery": "~6.2.0",
+    "expo-haptics": "~11.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
